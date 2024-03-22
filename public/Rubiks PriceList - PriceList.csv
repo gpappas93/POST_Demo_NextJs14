@@ -1,0 +1,261 @@
+productCode,sitePatra,siteSKG1,siteSKG2,productNameGreek,productNameEnglish,productDescriptionGreek,productDescriptionEnglish,productAccompanyGreek,productAccompanyEnglish,extraPricingGreek,extraPricingEnglish,CatalogueCategoryGreek,CatalogueCategoryEnglish,pricePatra,priceSKG1,priceSKG2,CALORIES,SUGARFREE,LOW CALORIES,VEGAN,LOW  GLUTEN,NO FLOUR,NO BUTTER,HIGH PROTEIN
+p0001,TRUE,TRUE,TRUE,Banana Bread,Banana Bread,,,,,,,SMALL TREATS,SMALL TREATS,4.3,5.3,6.3,1273,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+p0002,TRUE,TRUE,TRUE,Carrot Cake ,Carrot Cake ,Με cream cheese frosting,with cream cheese frosting,,,,,SMALL TREATS,SMALL TREATS,4,5,6,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0003,TRUE,TRUE,TRUE,Cinnamon Rolls ,Cinnamon Rolls ,Ολικής χωρίς ζάχαρη,"Whole wheat, sugar free",,,,,SMALL TREATS,SMALL TREATS,4.5,5.5,6.5,,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+p0004,TRUE,TRUE,TRUE,Muffins Φουντουκιού,Hazelnuts Muffins,Με 100% αλεύρι βρώμης χωρίς γλουτένη κακάο και φουντούκια,"Muffins with 100% oat flour, cacao and hazelnuts",,,,,SMALL TREATS,SMALL TREATS,4.3,5.3,6.3,,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+p0005,TRUE,TRUE,TRUE,Quinoa Cookie,Quinoa Cookie,Με 100% Αλεύρι βρώμης χωρίς γλουτένη κακάο και φουντούκια,"With oat, cranberries and chocolate drops",,,,,COOKIES,COOKIES,2.3,3.3,4.3,123,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+p0006,TRUE,TRUE,TRUE,Choco Chip Cookie,Choco Chip Cookie,"Με αλεύρι καστανού ρυζιού και βρώμης με αμυγδαλοβούτυρο
+παραγωγής μας και κομμάτια σοκολάτας","With brown rice and oat flour, Rubik’s almond butter and chocolate pieces",,,,,COOKIES,COOKIES,2.3,3.3,4.3,,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+p0007,TRUE,TRUE,TRUE,Healthy Nutella,Healthy Nutella,Mε φουντουκοβούτυρο παραγωγής μας και σοκολάτα,Healthy Nutella with Rubik’s hazelnut butter and chocolate,,,,,COOKIES,COOKIES,2.3,3.3,4.3,,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+p0008,TRUE,TRUE,TRUE,Salted chocolate brownie cookie,Salted chocolate brownie cookie,,,,,,,COOKIES,COOKIES,2.3,3.3,4.3,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0009,TRUE,TRUE,FALSE,Γεμιστά,Filled,Με φυστικοβούτυρο παραγωγής μας και μαρμελάδα blueberries,Filled with organic peanut butter our production and blueberry jam,,,,,COOKIES,COOKIES,2.3,3.3,4.3,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0010,TRUE,TRUE,FALSE,Ημέρας,Day's Specials,Ρωτήστε μας για το cookie ημέρας,,,,,,COOKIES,COOKIES,2.3,3.3,4.3,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0011,TRUE,TRUE,FALSE,Cranberry balls,Cranberry balls,"Αμύγδαλα, cranberry powder, χουρμάδες, φυστικοβούτυρο","Almonds, cranberry powder, dates, peanut butter",,,,,ENERGY BALLS,ENERGY BALLS,2,3,4,,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+p0012,TRUE,TRUE,FALSE,Matcha balls,Matcha balls,"Αntioxidant + metabolic boost με κάσιους, χουρμάδες και φυστίκι Αιγίνης","Antioxidant+metabolic boost with cashew nuts, dates and pistachio",,,,,ENERGY BALLS,ENERGY BALLS,2,3,4,,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+p0013,TRUE,TRUE,FALSE,Ferrero balls,Ferrero balls,Φουντουκοβούτυρο παραγωγής μας και κακάο,Hazelnut butter our production and cacao,,,,,ENERGY BALLS,ENERGY BALLS,2,3,4,,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+p0014,TRUE,TRUE,FALSE,Πορτοκάλι και κακάο,Orange and cacao,"Με χουρμάδες, φυτική πρωτεΐνη και ξηρούς καρπούς","With dates, plant-based protein and dry nuts",,,,,PROTEIN BARS,PROTEIN BARS,2,3,4,147,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+p0015,TRUE,TRUE,FALSE,Βανίλια και φουντούκι,Vanilla and hazelnut,"Με χουρμάδες, φυτική πρωτεΐνη και ξηρούς καρπούς","With dates, plant-based protein and dry nuts",,,,,PROTEIN BARS,PROTEIN BARS,2,3,4,147,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+p0016,TRUE,TRUE,FALSE,Cookie dough,Cookie dough,Mε chips σοκολάτας και καρποβούτυρο από κάσιους,Cookie dough with chocolate chips and cashew butternut,,,,,PROTEIN BARS,PROTEIN BARS,2,3,4,147,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+p0017,TRUE,TRUE,FALSE,Banoffee,Banoffee,"Βάση με μπισκότο, καραμέλα και κρέμα με φιλέ αμυγδάλου και ωμούς σπόρους κακάο","Base with biscuit, caramel, and almond cream with almond fillet
+and raw cocoa seeds",,,,,ΓΛΥΚΑ ΨΥΓΕΙΟΥ,FRIDGE PASTA,4.8,5.8,6.8,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0018,TRUE,TRUE,FALSE,Cheesecake,Cheesecake,"Βάση με βασιλικούς χουρμάδες, βρώμη και ξηρούς καρπούς, κρέμα από κάσιους με βιολογικό νέκταρ αγαύης","Base with royal dates, oats and nuts, cashew cream with organic agave nectar",ΡΩΤΗΣΤΕ ΜΑΣ ΓΙΑ ΤΗ ΓΕΥΣΗ ΤΗΣ ΗΜΕΡΑΣ!,ASK US FOR THE FLAVOUR OF THE DAY!,,,ΓΛΥΚΑ ΨΥΓΕΙΟΥ,FRIDGE PASTA,5.5,6.5,7.5,,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+p0019,TRUE,TRUE,FALSE,Choco Granola,Choco Granola,"Ψημένες νιφάδες βρώμης με σοκολάτα και φουντούκια,
+κομμάτια φρέσκιας μπανάνας και βιολογικό νέκταρ αγαύης","Baked oat flakes with nuts, cacao, agave nectar, fresh banana chunks with milk or
+almond/soy/coconut/oat milk, hot or cold",,,"Βιολογικό ρόφημα
+αμυγδάλου / σόγιας / καρύδας / βρώμης κρύο ή ζεστό +€0,50","Served with milk or almond/soy/coconut/oat milk, hot or cold +€0,50",SMOOTHIE BOWLS,SMOOTHIE BOWLS,5.5,6.5,7.5,,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+p0020,TRUE,TRUE,FALSE,Choco-Peanuts Porridge,Choco-Peanuts Porridge,"Βιολογικές νιφάδες βρώμης, κακάο, βιολογικό νέκταρ αγαύης,
+φρέσκες μπανάνες, cacao nibs, τριμμένος λιναρόσπορος,
+φυστικοβούτυρο παραγωγής μας","Organic oat flakes, cacao, organic agave nectar, fresh bananas, chocolate, ground
+linseed and organic peanut butter our production, milk or almond/soy/coconut
+milk, hot or cold +€0,50",,,"Γάλα ή ρόφημα αμυγδάλου / σόγιας / καρύδας / βρώμης +€0,50","Served with milk or almond/soy/coconut/oat milk, hot or cold +€0,50",SMOOTHIE BOWLS,SMOOTHIE BOWLS,6.5,7.5,8.5,,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+p0021,TRUE,TRUE,FALSE,Porridge of the month,Porridge of the month,Scan τον κατάλογο με τα πιάτα ημέρας,Scan the menu with the dishes of the day,,,,,SMOOTHIE BOWLS,SMOOTHIE BOWLS,6,7,8,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0022,TRUE,TRUE,FALSE,Fruit Yogurt,Fruit Yogurt,"Γιαούρτι 2% με φρούτα εποχής, βιολογικό νέκταρ αγαύης
+και αμυγδαλοβούτυρο παραγωγής μας από 100% ελληνικά αμύγδαλα","2% yogurt with fresh fruit, organic agave nectar and organic almond butter our
+production made by 100% almonds",,,"- Γιαούρτι 2% + €1,00
+- Γιαούρτι βιολογικής σόγιας +€1,00","2% fat yogurt +€1,00
+with organic soya yogurt +€1,00",SMOOTHIE BOWLS,SMOOTHIE BOWLS,6.5,7.5,8.5,,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+p0023,TRUE,TRUE,FALSE,Choco Protein Yogurt,Choco Protein Yogurt,"Γιαούρτι 2% με κακάο και βιολογικό νέκταρ αγαύης,
+φυστικοβούτυρο παραγωγής μας, μπανάνα, χειροποίητη granola σοκολάτας","2% fat yogurt with cacao and organic agave nectar, peanut butter sauce, banana,
+handmade biscuit",,,"ΒΙΟΛΟΓΙΚΟ ΓΙΑΟΥΡΤΙ ΣΟΓΙΑΣ ΧΩΡΙΣ ΖΑΧΑΡΗ + € 0,50",,SMOOTHIE BOWLS,SMOOTHIE BOWLS,6,7,8,,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE
+p0024,TRUE,TRUE,FALSE,Acai Berry Yogurt,Acai Berry Yogurt,"Γιαούρτι 2% με Αcai Berry, βιολογικούς σπόρους chia
+με χειροποίητη granola με ξηρούς καρπούς και χειροποίητη
+μαρμελάδα με φρούτα του δάσους χωρίς ζάχαρη","2% fat yogurt with acai Berry, chia seeds, handmade granola with nuts and
+handmade forest fruit jam without sugar",,,"ΒΙΟΛΟΓΙΚΟ ΓΙΑΟΥΡΤΙ ΣΟΓΙΑΣ ΧΩΡΙΣ ΖΑΧΑΡΗ + € 0,50","ALL CAN BE PREPARED WITH ORGANIC SOYA YOGURT WITHOUT SUGAR + € 0,50",SMOOTHIE BOWLS,SMOOTHIE BOWLS,6,7,8,,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE
+p0025,TRUE,TRUE,FALSE,"Purple Haze, Acai Berry bowl","Purple Haze, Acai Berry bowl","Μιξ μούρων, μπανάνα, açaí, γάλα, σπόροι chia, cranberries,
+goji berries, blueberries χωρίς ζάχαρη, χειροποίητη superfood granola","Mixed berries, banana, açaí, milk, chia seeds, cranberries, goji berries,
+blueberries without sugar, handmade superfood granola",,,,,SMOOTHIE BOWLS,SMOOTHIE BOWLS,7,8,9,,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+p0026,TRUE,TRUE,FALSE,Pink Cadillac,Pink Cadillac,"Φράουλα, μπανάνα, γάλα, goji berries, σπόροι κάνναβης","Strawberry, banana, milk, goji berries, hemp seeds",,,,,SMOOTHIE BOWLS,SMOOTHIE BOWLS,6.5,7.5,8.5,,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+p0027,TRUE,FALSE,FALSE,Yellow submarine,Yellow submarine,"Μάνγκο, μπανάνα, γάλα, χειροποίητη superfood granola
+με αποξηραμένα φρούτα, βιολογική γύρη, φιλέ αμυγδάλου","Mango, banana,milk, handmade superfood granola with dried fruit,
+pollen, almond flakes",,,,,SMOOTHIE BOWLS,SMOOTHIE BOWLS,6.5,7.5,8.5,,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+p0028,TRUE,FALSE,FALSE,Made from Chocolate,Made from Chocolate,"Μπανάνα, κακάο, γάλα, τρίμμα καρύδας, cacao nibs,
+φυστικοβούτυρο παραγωγής μας","Banana, cacao, milk, ground coconut, cacao nibs, Rubik’s peanut butter",,,,,SMOOTHIE BOWLS,SMOOTHIE BOWLS,6,7,8,,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+p0029,TRUE,FALSE,FALSE,Berry Fields,Berry Fields,"Σμέουρα, μπανάνα, γάλα, χειροποίητη superfood granola, φρέσκες
+φράουλες (όταν είναι η εποχή τους) φυστικοβούτυρο, σκόνη cranberries","Raspberries, banana, milk, handmade superfood granola,
+fresh strawberries - when in season -, peanut butter, cranberry powder",,"ALL SMOOTHIE BOWLS CAN BE MADE VEGAN WITH ORGANIC SOY, ALMOND, COCONUT OR OAT MILK",,,SMOOTHIE BOWLS,SMOOTHIE BOWLS,7,8,9,,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+p0030,TRUE,FALSE,FALSE,Choco Pancakes,Choco Pancakes,"Σοκολατένια pancakes με λευκή πραλίνα και ganache μαύρης σοκολάτας,
+τριμμένο φουντούκι, cranberries χωρίς ζάχαρη και ωμούς σπόρους κακάο","Chocolate pancakes with white and black chocolate, crushed hazelnut,
+sugar-free cranberries, cacao nibs",Vegan επιλογή χωρίς την λευκή σοκολάτα,Vegan option without the white chocolate,,,ΓΛΥΚΑ ΚΑΙ ΑΛΜΥΡΑ PANCAKES,PASTA PANCAKES,8,9,10,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0031,TRUE,FALSE,FALSE,Protein Pancakes,Protein Pancakes,"Sauce κακάο-φυστικοβούτυρο με φρέσκες μπανάνες, βιολογικό νέκταρ
+αγαύης και χειροποίητο μπισκότο από αμύγδαλα και cranberries","Cacao-peanut butter sauce, fresh bananas and handmade biscuit",,,,,ΓΛΥΚΑ ΚΑΙ ΑΛΜΥΡΑ PANCAKES,PASTA PANCAKES,8,9,10,,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+p0032,TRUE,FALSE,FALSE,Red Velvet Pancakes,Red Velvet Pancakes,"Κόκκινα pancakes με cream cheese, μαρμελαδα blueberry,
+βιολογικά αποξηραμένα blueberries και σπόρους chia","Red pancakes with cream cheese, blueberry jam,
+organic dried blueberries, chia seeds",,,,,ΓΛΥΚΑ ΚΑΙ ΑΛΜΥΡΑ PANCAKES,PASTA PANCAKES,8.5,9.5,10.5,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0033,TRUE,FALSE,FALSE,Lemon Haze Pancakes,Lemon Haze Pancakes,"Καπνιστή γαλοπούλα, γραβιέρα, σπανάκι baby,
+sauce μοσχολέμονου και σπόροι κάνναβης","Smoked turkey, greek cheese-graviera, baby spinach, lime sauce and hemp seeds",,,"-1 αυγό poché €8,50
+-2 αυγά pochés €9,00","1 poached egg €8,50
++2 poached eggs €9,00",ΓΛΥΚΑ ΚΑΙ ΑΛΜΥΡΑ PANCAKES,PASTA PANCAKES,7.5,8.5,9.5,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+p0034,TRUE,FALSE,FALSE,Mushroom Jackfruit Pancakes,Mushroom Jackfruit Pancakes,"Μανιτάρια με jackfruit, χειροποίητη κρέμα από κάσιους
+και αμύγδαλα με βασιλικό, πολύχρωμες πιπεριές,
+φύτρες λαχανικών, σαλάτα ρόκα και ντοματίνια","Mushrooms with jackfruit, handmade cashew and almond cream with basil,
+assorted peppers, vegetable sprouts,arugula salad and cherry tomatoes",,,,,ΓΛΥΚΑ ΚΑΙ ΑΛΜΥΡΑ PANCAKES,PASTA PANCAKES,8.5,9.5,10.5,,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+p0035,TRUE,FALSE,FALSE,Salmon Pancakes,Salmon Pancakes,"Καπνιστός σολομός, light cream cheese, ντοματίνια, ρόκα και vinaigrette lime","Smoked salmon, light cream cheese, cherry tomatoes, arugula and lime sauce",,,"-1 αυγό poché €9,00
+-2 αυγά pochés €9,50
+-Lactofree επιλογή με vegan cream cheese +€0,50","1 poached egg €9,00
++2 poaches eggs €9,50
++ Lactofree choice with vegan cream cheese +0,50",ΓΛΥΚΑ ΚΑΙ ΑΛΜΥΡΑ PANCAKES,PASTA PANCAKES,8,9,10,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0036,TRUE,FALSE,FALSE,Build up Omelette με χωριάτικα αυγά,Build up Omelette,Συνοδεύεται με σαλάτα εποχής και χειροποίητο ψωμί ολικής. Διαλέγετε 3 υλικά,Served with seasonal salad and whole wheat handmade bread choose 3 ingredients!,,,"-Φιλέτο καπνιστής γαλοπούλας 
+-ψητό κοτόπουλο 
+-γραβιέρα 
+-light cream cheese
+-κίτρινο τυρί 
+-αβοκάντο 
+-ψητά μανιτάρια 
+-καραμελωμένα κρεμμύδια
+-ντοματίνια 
+-χούμους 
+-κίτρινη sauce μοσχολέμονου
+-sauce αβοκάντο με κουκουνάρι και lime
+-κρέμα ψητής πιπεριάς 
+-ντομάτα 
+-πολύχρωμες πιπεριές 
+-baby σπανάκι
+-ρόκα 
+-βαλεριάνα 
+-τριμμένο καρότο
+~ +€0,50 το κάθε έξτρα υλικό","-Τurkey 
+-chicken filet 
+-greek cheese-graviera 
+-light cream cheese
+-yellow cheese 
+-beetroot hummus 
+-avocado 
+-lime yellow sauce
+-avocado sauce with pine nuts and lime 
+-grilled pepper cream 
+-tomato      
+-assorted peppers
+-baby spinach 
+-arugula 
+-valerian 
+-ground carrot
+-grilled mushrooms 
+-caramelized onions and cherry tomatoes
++€0,50 per extra ingredient",BRUNCH,BRUNCH,7.5,8.5,9.5,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+p0037,TRUE,FALSE,FALSE,Salmon Avocado Toast,Salmon Avocado Toast,"Χειροποίητο ψωμί ολικής με καπνιστό σολομό, avocado, lime sauce, light cream
+cheese και φύλλα baby ρόκας","Whole wheat handmade bread with smoked salmon, avocado,
+lime sauce, cream cheese, arugula",,,"-1 αυγό poché | 75Κcal €8,50
+-2 αυγά pochés €9,00
+-Lactofree επιλογή με vegan cream cheese","1 poached egg | 75Κcal €8,50
+2 poached eggs €9,00
+Lactofree choice with vegan cream cheese",BRUNCH,BRUNCH,8,9,10,390,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0038,TRUE,FALSE,FALSE,Avocado toast,Avocado toast,"Χειροποίητο ψωμί ολικής με spread από αβοκάντο με lime και κουκουνάρι,
+chili flakes","Whole wheat handmade bread with spread of organic avocado with lime and
+pine nuts, chili flakes, served with salad with citrus vinaigrette","συνοδεύεται με σαλάτα εποχής με vinaigrette εσπεριδοειδών και
+mix σπόρων",,"-1 αυγό poché | 75 Kcal €7,00
+-2 αυγά pochés €7,50","1 poached egg | 75Kcal €7,00
+2 poached eggs €7,50",BRUNCH,BRUNCH,6,7,8,301,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+p0039,TRUE,FALSE,FALSE,Open Chicken Sandwich,Open Chicken Sandwich,"Βάση από πολύσπορο ψωμί με light cream cheese, baby σπανάκι, φιλέτο κοτόπουλο, καραμελωμένα κρεμμύδια χωρίς ζάχαρη, ντοματίνια και lime sauce","Whole grain bread with chicken filet, light cream cheese, caramelized onions
+without sugar baby spinach, cherry tomatoes and lime sauce",,,,,BRUNCH,BRUNCH,8,9,10,,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+p0040,TRUE,FALSE,FALSE,Open Mushroom Pesto Sandwich,Open Mushroom Pesto Sandwich,"Βάση από πολύσπορο ψωμί με δροσερή sauce γιαουρτιού, ρόκα, γύρο μανιταριών με jackfruit, vegan παρμεζάνα, ντοματίνια και pesto βασιλικού","Whole grain bread with basil pesto, mushroom gyros, vegan parmesan, arugula
+salad, cherry tomatoes and basil pesto",,,,,BRUNCH,BRUNCH,7.5,8.5,9.5,,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+p0041,TRUE,FALSE,FALSE,Healthy Caesar’s Salad,Healthy Caesar’s Salad,"Mix πράσινων λαχανικών, ντοματίνια, καλαμπόκι, χειροποίητο κρουτόν
+ολικής, παρμεζάνα, βιολογικό φιλέτο κοτόπουλο, light caesar’s sauce","Mix of green vegetables, cherry tomatoes, corn, handmade croutons
+whole wheat, parmesan, organic chicken fillet, light Caesar's sauce",,vegan option with handmade cashew parmesan and nutritional yeast enriched with B12 and soy fillets. ,"-Vegan option με χειροποίητη παρμεζάνα από κάσιους και διατροφική μαγιά
+εμπλουτισμένη με β12 και φιλετάκια σόγιας +€1,00","vegan option with handmade cashew parmesan and nutritional yeast enriched with B12 and soy fillets. +€1,00",BOWLS AND SALADS,BOWLS AND SALADS,9,10,11,,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+p0042,TRUE,FALSE,FALSE,Mushroom-Pasta Salad,Mushroom-Pasta Salad,"Σαλάτα ζυμαρικών με πέννες ολικής άλεσης, ψητά μανιτάρια,
+ντοματίνια, ελαφριά κρέμα από κάσιους και αμύγδαλα,
+vegan παρμεζάνα και φύλλα baby ρόκας","Whole wheat penne with cashew cream and basil, mushrooms, vegan parmesan,
+cherry tomatoes and arugula",,,,,BOWLS AND SALADS,BOWLS AND SALADS,8,9,10,,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+p0043,TRUE,FALSE,FALSE,Superfood Salad,Superfood Salad,"Βιολογική κινόα με κόκκινο λάχανα και καρότο με φιλέτο στήθος κοτόπουλο,
+τριμμένο φουντούκι, cranberries χωρίς ζάχαρη και teriyaki lime sauce","Chicken breast filet, organic quinoa, cranberries without sugar, hazelnuts, teriyaki
+sauce and lime, cabbage, carrot",,,,,BOWLS AND SALADS,BOWLS AND SALADS,8.5,9.5,10.5,,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE
+p0044,TRUE,FALSE,FALSE,Poke Bowl,Poke Bowl,"Ρύζι basmati, τόνος Αλοννήσου, flakes καρότου, αβοκάντο,
+flakes αγγουριού, ραπανάκι, κόκκινο λάχανο, μαύρο σουσάμι, teriyaki sauc","Basmati rice, tuna from Alonnisos island, carrot flakes, avocado, cucumber slice,
+radish, black sesame, red cabbage and teriyaki sauce",-Vegan επιλογή με edamame beans,Vegan option with edamame beans,,,BOWLS AND SALADS,BOWLS AND SALADS,9,10,11,,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE
+p0045,TRUE,FALSE,FALSE,Falafel Buddha Bowl,Falafel Buddha Bowl,"Ρεβυθοκεφτέδες στο φούρνο, τορτίγια ολικής, κρέμα ψητής πιπεριάς,
+χούμους παντζαριού, flakes αγγουριού, flakes καρότου, mix σπόρων,
+αρωματική sauce γιαουρτιού, mix πράσινων λαχανικών","Baked falafel, wholewheat tortilla, grilled pepper cream, beetroot hummus,
+cucumber slice, carrot flakes, mix of seeds, aromatic yogurt sauce, green
+vegetable mix",,,,,BOWLS AND SALADS,BOWLS AND SALADS,8,9,10,,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+p0046,TRUE,FALSE,FALSE,Νιόκι πατάτας,Potato gnocchi,Με λευκή σάλτσα μανιταριών και vegan παρμεζάνα,"With soya cream, mushrooms, hazelnut and cashew Parmesan",,,,,ΚΥΡΙΟΣ ΠΙΑΤΑ,MAIN DISHES,8.5,9.5,10.5,,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+p0047,TRUE,FALSE,FALSE,Tikka Μasala,Tikka Μasala,Φιλετάκια κοτόπουλο μαγειρεμένα σε ινδική σάλτσα με ρύζι μπασμάτι,"Chicken filets with basmati rice, micro greens, cucumber slice and radish flavored
+with arugula and sesame, yogurt sauce.","Συνοδεύεται με φέτες αγγουριού, ραπανάκι, ρόκα, μαύρο σουσάμι και sauce
+γιαουρτιού. - Vegan επιλογη με φιλετάκια σόγιας και φυτικό γιαούρτι",Vegan option with soya chunks and vegetable yogurt,,,ΚΥΡΙΟΣ ΠΙΑΤΑ,MAIN DISHES,9.5,10.5,11.5,,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+p0048,TRUE,FALSE,FALSE,Bean Burger,Bean Burger,"Χειροποίητο μπιφτέκι από φασόλια, κρέμα αβοκάντο, κουκουνάρι, καραμελωμένα κρεμμύδια, ρόκα, ντομάτα και vegan παρμεζάνα.","Handmade bean burger, avocado cream, pine nuts, caramelized onions, arugula,
+tomato and vegan parmesan. Served with baked baby potatoes, bbq sauce and
+arugula salad","Σερβίρεται με baby πατάτες φούρνου, bbq sauce και σαλάτα ρόκα",,,,ΚΥΡΙΟΣ ΠΙΑΤΑ,MAIN DISHES,9,10,11,,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+p0049,TRUE,FALSE,FALSE,Chicken Burger,Chicken Burger,"Μπιφτέκι από βιολογικό κοτόπουλο, τυρί, κρέμα πιπεριάς, αβοκάντο,
+iceberg, ντομάτα σε χειροποίητο ψωμί ολικής, συνοδεύεται με σαλάτα εποχής.","Organic chicken burger, cheese, pepper cream, avocado, iceberg, tomato in
+handmade wholemeal bread, accompanied by seasonal salad. Served with baked
+baby potatoes, lime sauce and seasonal salad with vinaigrette lime","Σερβίρεται με baby πατάτες φούρνου, sauce μοσχολέμονο και σαλάτα εποχής
+με vinaigrette lime",,,,ΚΥΡΙΟΣ ΠΙΑΤΑ,MAIN DISHES,9.5,10.5,11.5,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+p0050,TRUE,FALSE,FALSE,Ρωτήστε μας για το πιάτο ημέρας!,Ask us for day’s specials,,,,,"Extra: Μερίδα χειροποίητο ψωμί ολικής παραγωγής μας €1,00 / Αυγό €1,00","Handmade whole wheat bread our production €1,00 / Egg €1,00",ΚΥΡΙΟΣ ΠΙΑΤΑ,MAIN DISHES,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0066,TRUE,FALSE,FALSE,Golden Latte,Golden Latte,"Ρόφημα βρώμης, κουρκουμάς, κανέλα, ginger, πιπέρι, βιολογικό σιρόπι αγαύης","Oat milk, turmeric, cinnamon, ginger, pepper, bio agave syrup",,,,,SUPERFOOD ΡΟΦΗΜΑΤΑ,SUPEFOOD DRINKS,4,5,6,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0067,TRUE,FALSE,FALSE,Maca Latte,Maca Latte,"Ρόφημα βρώμης, maca, κανέλα, βιολογικό νέκταρ αγαύης","Oat milk, maca, cinnamon, bio agave nectar ",,,,"double espresso shot +€1,00",SUPERFOOD ΡΟΦΗΜΑΤΑ,SUPEFOOD DRINKS,4,5,6,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0068,TRUE,FALSE,FALSE,Cacao Carob Latte,Cacao Carob Latte,"Ρόφημα βρώμης, χαρουπάλευρο, κακάο,chili, βιολογικό νέκταρ αγαύης","Oat milk, carob powder, cacao, chili, bio agave nectar",,,,,SUPERFOOD ΡΟΦΗΜΑΤΑ,SUPEFOOD DRINKS,4,5,6,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0069,TRUE,FALSE,FALSE,Matcha Latte,Matcha Latte,"Ρόφημα βρώμης, τσάι matcha, βιολογικό σιρόπι αγαύης","Oat milk, matcha tea, bio agave syrup",,,,,SUPERFOOD ΡΟΦΗΜΑΤΑ,SUPEFOOD DRINKS,4.2,5.2,6.2,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0070,TRUE,FALSE,FALSE,Hot Choco Latte,Hot Choco Latte,"Γάλα, βιολογικό κακάο, ζάχαρη καστανή demerara και σιρόπι αγαύης
+milk, organic cacao, brown demerara sugar and agave syrup","Milk, organic cacao, brown demerara sugar and agave syrup",,,"Επιλογή με γάλα βρώμης +€0,40","Option with oat milk +€0,40",SUPERFOOD ΡΟΦΗΜΑΤΑ,SUPEFOOD DRINKS,3.8,4.8,5.8,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0063,TRUE,FALSE,FALSE,Ελληνικός μονός,Greek coffee single shot,,,,,,,COFFEES,COFFEES,2.7,3.7,4.7,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0064,TRUE,FALSE,FALSE,Ελληνικός διπλός,Greek coffee double shot,,,,,,,COFFEES,COFFEES,3,4,5,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0065,TRUE,FALSE,FALSE,Στιγμιαίος,Instant / Frappe Coffee,,,,,,,COFFEES,COFFEES,3.2,4.2,5.2,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0071,TRUE,FALSE,FALSE,Χειροποίητη Sparkling λεμονάδα,Handmade sparkling lemonade,"Χωρίς ζάχαρη με βανίλια, δυόσμο, τζίντζερ, λεμόνι, lime, σόδα και νέκταρ αγαύης","Sugar-free with vanilla, spearmint, ginger, lemon, lime, soda and agave nectar",,,,,ΚΡΥΑ ΡΟΦΗΜΑΤΑ,COLD,4,5,6,,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+p0072,TRUE,FALSE,FALSE,Κρύο ρόφημα με αγγούρι και βασιλικό,Cold beverage with cucumber and basil,,,,,,,ΚΡΥΑ ΡΟΦΗΜΑΤΑ,COLD,4.7,5.7,6.7,82.5,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+p0073,TRUE,FALSE,FALSE,Σόδα / Τόνικ / Φυσικά ανθρακούχο μεταλλικό νερό / ξινόνερο,"Soda water / tonic water /
+Natural sparkling mineral sour water",,,,,,,ΚΡΥΑ ΡΟΦΗΜΑΤΑ,COLD,3,4,5,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0074,TRUE,FALSE,FALSE,Αναψυκτικά χωρίς ζάχαρη,Sugar-free soft drinks,"Πορτοκαλάδα, λεμονάδα, cola","Οrangeade, lemonade, cola",,,,,ΚΡΥΑ ΡΟΦΗΜΑΤΑ,COLD,3,4,5,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0075,TRUE,FALSE,FALSE,Tree Cents Grapefruit soda,Tree Cents Grapefruit soda,,,,,,,ΚΡΥΑ ΡΟΦΗΜΑΤΑ,COLD,4.3,5.3,6.3,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0076,TRUE,FALSE,FALSE,Κρύο τσάι Kombucha με AÇAÍ,Iced Tea Kombucha with AÇAÍ,"Τσάι ελαφριάς ζύμωσης δυο ημερών χωρίς ζάχαρη,
+ιδανικό για αποτοξίνωση και ενίσχυση του μεταβολισμού","Light 2-day fermented tea, without sugar, ideal for detox and metabolism boost",,,,,ΚΡΥΑ ΡΟΦΗΜΑΤΑ,COLD,4.7,5.7,6.7,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0077,TRUE,FALSE,FALSE,"Κρύο τσάι από μείγμα λευκού & μαύρου
+τσαγιού με εκχύλισμα super fruits","Iced tea from mix of white and black tea
+with super fruits’ extract",Τσάι ελαφριάς ζύμωσης δυο ημερών χωρίς ζάχαρη,Light 2-day fermented tea without sugar,,,,,ΚΡΥΑ ΡΟΦΗΜΑΤΑ,COLD,4.7,5.7,6.7,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0078,TRUE,FALSE,FALSE,Ceylon OP,Ceylon OP,Μαύρο τσάι Κεϋλάνης,Black Ceylon tea,,,,,ΤΣΑΙ ΒΟΤΑΝΑ ΦΥΣΙΚΟΙ ΧΥΜΟΙ,#N/A,3,4,5,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0079,TRUE,FALSE,FALSE,Άνθος της Πέτρας,Stone flower,"Μάνγκο, βερίκοκο, φλούδες εσπεριδοειδών","Mango, apricot, citrus peels",,,,,ΤΣΑΙ ΒΟΤΑΝΑ ΦΥΣΙΚΟΙ ΧΥΜΟΙ,#N/A,3.2,4.2,5.2,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0080,TRUE,FALSE,FALSE,Τσάι της Παλμύρας,Palmyra tea,"Μαύρο τσάι με σύκο, αμύγδαλο και χουρμάδες","Black tea with fig, almond and dates",,,,,ΤΣΑΙ ΒΟΤΑΝΑ ΦΥΣΙΚΟΙ ΧΥΜΟΙ,#N/A,3.2,4.2,5.2,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0081,TRUE,FALSE,FALSE,Ινδικό παραμύθι,Indian Fairy Tale,"Πράσινο τσάι με καραμέλα, αμύγδαλο και καρύδα","Green tea with caramel, almond and coconut",,,,,ΤΣΑΙ ΒΟΤΑΝΑ ΦΥΣΙΚΟΙ ΧΥΜΟΙ,#N/A,3.2,4.2,5.2,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0082,TRUE,FALSE,FALSE,Δάκρυ της Χίου,Chios teardrop,"Πράσινο τσάι με μαστίχα Χίου, φυστίκι Αιγίνης, αμύγδαλο, λεμόνι","Green tea with Chios mastic, pistachio, almonds, lemon",,,,,ΤΣΑΙ ΒΟΤΑΝΑ ΦΥΣΙΚΟΙ ΧΥΜΟΙ,#N/A,3.2,4.2,5.2,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0083,TRUE,FALSE,FALSE,Mandarin Jasmin,Mandarin Jasmin,Πράσινο τσάι γιασεμί,Jasmine green tea,,,,,ΤΣΑΙ ΒΟΤΑΝΑ ΦΥΣΙΚΟΙ ΧΥΜΟΙ,#N/A,3.2,4.2,5.2,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0084,TRUE,FALSE,FALSE,Τσάι ενίσχυσης Ανοσοποιητικού,Immune boosting tea,"Lapacho, πορτοκάλι, βανίλια","Lapacho, orange, vanilla",,,,,ΤΣΑΙ ΒΟΤΑΝΑ ΦΥΣΙΚΟΙ ΧΥΜΟΙ,#N/A,3.2,4.2,5.2,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0085,TRUE,FALSE,FALSE,Τσάι χαλάρωσης,Relaxation tea,"Μήλο, ροδάκινο, φλούδα εσπεριδοειδών, καλέντουλα, βαλεριάνα,
+λεβάντα, χαμομήλι, δυόσμος, μελισσόχορτο, μολόχα","Apple, peach, citrus peel, calendula, valerian, levander,
+camomile, spearmint, melissa, mallow",,,,,ΤΣΑΙ ΒΟΤΑΝΑ ΦΥΣΙΚΟΙ ΧΥΜΟΙ,#N/A,3.2,4.2,5.2,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0086,TRUE,FALSE,FALSE,Τσάι ενέργειας με guarana,Energy tea with guarana,"Πράσινο τσάι με ρίζα ginseng, ανανά, πιπερόριζα και σπόρους guarana","Green tea with ginseng root, pineapple, ginger and guarana seeds",,,,,ΤΣΑΙ ΒΟΤΑΝΑ ΦΥΣΙΚΟΙ ΧΥΜΟΙ,#N/A,3.2,4.2,5.2,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0087,TRUE,FALSE,FALSE,Τσάι του βουνού,Greek mountain tea,,,,,,,ΤΣΑΙ & ΒΟΤΑΝΑ,ΤΕΑ & HERBS,3,4,5,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0088,TRUE,FALSE,FALSE,Λουίζα,Greek mountain herbal tea with lemon flavor,,,,,,,ΤΣΑΙ ΒΟΤΑΝΑ ΦΥΣΙΚΟΙ ΧΥΜΟΙ,#N/A,3,4,5,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0089,TRUE,FALSE,FALSE,Πορτοκάλι,Orange juice,,,,,,,ΤΣΑΙ ΒΟΤΑΝΑ ΦΥΣΙΚΟΙ ΧΥΜΟΙ,#N/A,3.8,4.8,5.8,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0090,TRUE,FALSE,FALSE,Βιολογικός χυμός ρόδι,Organic pomegranate juice,,,,,,,ΤΣΑΙ ΒΟΤΑΝΑ ΦΥΣΙΚΟΙ ΧΥΜΟΙ,#N/A,4,5,6,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0091,TRUE,FALSE,FALSE,"Πορτοκάλι, τζίντζερ, κιτρινόριζα","Orange juice, ginger, turmeric",,,,,,,ΤΣΑΙ ΒΟΤΑΝΑ ΦΥΣΙΚΟΙ ΧΥΜΟΙ,#N/A,4,5,6,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0092,TRUE,FALSE,FALSE,"Πορτοκάλι, ρόδι, acai berry","Orange juice, pomegranate, acai berry",,,,,,,ΤΣΑΙ ΒΟΤΑΝΑ ΦΥΣΙΚΟΙ ΧΥΜΟΙ,#N/A,4.2,5.2,6.2,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0093,TRUE,FALSE,FALSE,"Μπανάνα, μήλο, σπανάκι","Banana, apple, spinach",,,,,,,ΤΣΑΙ ΒΟΤΑΝΑ ΦΥΣΙΚΟΙ ΧΥΜΟΙ,#N/A,4.2,5.2,6.2,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0094,TRUE,FALSE,FALSE,Φυσικός χυμός με φρούτα εποχής,Fresh juice with seasonal fruits,,,,,,,ΤΣΑΙ ΒΟΤΑΝΑ ΦΥΣΙΚΟΙ ΧΥΜΟΙ,#N/A,4.5,5.5,6.5,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0095,TRUE,FALSE,TRUE,Antioxidant Boost – Acai Berry,Antioxidant Boost – Acai Berry,"Βατόμουρα, σμέουρα, acai berry, μπανάνα, πορτοκάλι, γάλα κάρυδας,
+βιολογικό νέκταρ αγαύης","Blackberries, raspberries, acai berry, banana, orange, coconut yogurt, organic
+agave nectar",3G OF PROTEIN,,,,SMOOTHIES / SPRITZS,#N/A,5,6,7,260,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+p0096,TRUE,FALSE,TRUE,Protein Boost – 38g of organic protein,Protein Boost – 38g of organic protein,"Μπανάνα, κακάο, γάλα, γιαούρτι, βιολογικό νέκταρ αγαύης, φυστικοβούτυρο,
+πρωτεΐνη από βλαστούς ολικού καστανού ρυζιού και αρακά με πλήρες αμινοξεϊκό προφίλ για 100% αφομοίωση. ","Banana, cacao, milk, yogurt, organic agave nectar, peanut butter,
+protein from whole brown rice and pea with a complete
+amino acid profile for 100% absorption",Vegan επιλογή 380 kcal | 30g of protein, Vegan choice 380kcal 30g of protein,,,SMOOTHIES / SPRITZS,#N/A,5,6,7,420,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0097,TRUE,FALSE,TRUE,"Metabolic Boost, Yellow","Metabolic Boost, Yellow","Μάνγκο, σπόροι chia, γάλα καρύδας, ginger βιολογικό νέκταρ αγαύης","Mango, chia seeds, coconut milk, ginger, organic agave nectar",2G OF PROTEIN,,,,SMOOTHIES / SPRITZS,#N/A,5,6,7,180,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+p0098,TRUE,FALSE,TRUE,Zero Spritz Aperitivo,Zero Spritz Aperitivo,"Martini non Alcohol, grapefruit soda 0%","Martini non Alcohol, grapefruit soda 0%",,,,,SMOOTHIES / SPRITZS,#N/A,5.5,6.5,7.5,32,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0099,TRUE,FALSE,TRUE,Sunrise Mimosa,Sunrise Mimosa,"Prosecco, χυμός πορτοκάλι, χυμός ρόδι","Prosecco, orange juice, pomegranate juice",,,,,SMOOTHIES / SPRITZS,#N/A,6,7,8,118,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0100,TRUE,FALSE,TRUE,Aperol Spritz,Aperol Spritz,"Aperol, Prosecco, Soda Water","Aperol, Prosecco, Soda Water",,,,,SMOOTHIES / SPRITZS,#N/A,6.5,7.5,8.5,158,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0101,TRUE,TRUE,TRUE,Margarita Regular or Frozen,Margarita Regular or Frozen,"Tequila, Cointreau, Lime, Agave nectar","Tequila, Cointreau, Lime, Agave nectar",,,,,COCKTAILS,#N/A,8,9,10,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0102,TRUE,TRUE,TRUE,Mojito,Mojito,"White Rum, Lime, Brown Sugar, Mint, Soda Water","White Rum, Lime, Brown Sugar, Mint, Soda Water",,,,,COCKTAILS,#N/A,8,9,10,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0103,TRUE,FALSE,TRUE,Paloma,Paloma,"Tequila Blanco, agave nectar, grapefruit soda, lime","Tequila Blanco, agave nectar, grapefruit soda, lime",,,,,COCKTAILS,#N/A,8,9,10,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0104,TRUE,FALSE,TRUE,Negroni,Negroni,"Gin, Campari, sweet Vermouth","Gin, Campari, sweet Vermouth",,,,,COCKTAILS,#N/A,8,9,10,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0105,TRUE,FALSE,TRUE,Mai Tai,Mai Tai,"White Rum, Cointreau, Orgeat, Lime","White Rum, Cointreau, Orgeat, Lime",,,,,COCKTAILS,#N/A,8,9,10,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0106,TRUE,FALSE,TRUE,Anàna Southside,Anàna Southside,"Gin, Lime, Agave Syrup, Pineapple puree, Mint","Gin, Lime, Agave Syrup, Pineapple puree, Mint",,,,,COCKTAILS,#N/A,8,9,10,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0107,TRUE,FALSE,TRUE,Bitter Rose Mai Tai,Bitter Rose Mai Tai,"Campari, White Rum, Cointreau, Orgeat, Lime","Campari, White Rum, Cointreau, Orgeat, Lime",,,,,COCKTAILS,#N/A,8,9,10,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0108,TRUE,FALSE,TRUE,Basil Smash,Basil Smash,"Gin, Lime, basil","Gin, Lime, basil",,,,,COCKTAILS,#N/A,8,9,10,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0109,TRUE,FALSE,TRUE,Drinks,Drinks,"Gin, vodka, whisky, tequila, rum","Gin, vodka, whisky, tequila, rum",,,,,COCKTAILS,#N/A,8,9,10,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0110,TRUE,FALSE,TRUE,Estrella Damm Barcelona Draf,Estrella Damm Barcelona Draf,"Ποτήρι 400ml, Alcohol 4,6%","Glass 400ml, Alcohol 4,6%",,,,,ΜΠΥΡΕΣ,BEER,4.5,5.5,6.5,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0111,TRUE,FALSE,TRUE,Estrella Damm Daura Gluten Free,Estrella Damm Daura Gluten Free,"Φιάλη 330ml, Alcohol 5.4%","Bottle 330ml, Alcohol 5.4%",,,,,ΜΠΥΡΕΣ,BEER,5.5,6.5,7.5,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0112,TRUE,FALSE,TRUE,Noctua Head Twister Pale Ale,Noctua Head Twister Pale Ale,"Φιάλη 330ml, Alcohol 5,6%","Botlle 330ml, Alcohol 5,6%",,,,,ΜΠΥΡΕΣ,BEER,4.5,5.5,6.5,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0113,TRUE,FALSE,TRUE,Noctua Insomnia India Pale Ale,Noctua Insomnia India Pale Ale,"Φιάλη 330ml, Alcohol 5,8%","Botlle 330ml, Alcohol 5,8%",,,,,ΜΠΥΡΕΣ,BEER,4.8,5.8,6.8,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0114,TRUE,FALSE,TRUE,Noctua Endangered New England IPA,Noctua Endangered New England IPA,"Φιάλη 330ml, Alcohol 5,6%","Botlle 330ml, Alcohol 5,6%",,,,,ΜΠΥΡΕΣ,BEER,4.8,5.8,6.8,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0115,TRUE,FALSE,TRUE,Noctua Black IPA Night Vision,Noctua Black IPA Night Vision,"Φιάλη 330ml, Alcohol 7,2%","Botlle 330ml, Alcohol 7,2%",,,,,ΜΠΥΡΕΣ,BEER,5.5,6.5,7.5,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0116,TRUE,FALSE,TRUE,Valtinger Chalkidiki Pilsner,Valtinger Chalkidiki Pilsner,"Φιάλη 330ml, Alcohol 5,4%","Botlle 330ml, Alcohol 5,4%",,,,,ΜΠΥΡΕΣ,BEER,4.5,5.5,6.5,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0117,TRUE,FALSE,TRUE,Blame the Sun Bum Beach,Blame the Sun Bum Beach,"Tropic ale με ginger, τροπικά φρούτα και επίγευση lime
+Φιάλη 330ml, Alcohol 5%","Tropic ale with ginger, tropical fruits and lime after-taste
+Bottle 330ml, Alcohol 5%",,,,,ΜΠΥΡΕΣ,BEER,5,6,7,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0118,TRUE,FALSE,TRUE,Corona,Corona,Φιάλη 355ml Alcohol 4.5%,Bottle 355ml Alcohol 4.5%,,,,,ΜΠΥΡΕΣ,BEER,4.5,5.5,6.5,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0119,TRUE,FALSE,TRUE,Μάμος Pilsner,Mamos Pilsner,"Φιάλη 330ml, Alcohol 5%","Bottle 330ml, Alcohol 5%",,,,,ΜΠΥΡΕΣ,BEER,4.3,5.3,6.3,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0120,TRUE,FALSE,TRUE,Fix Ανευ,Fix Anef,"Φιάλη 330ml, Alcohol 0.5%, 49,5 Kca","Bottle 330ml, Alcohol 0.5%, 49,5 Kcal",,,,,ΜΠΥΡΕΣ,BEER,3.8,4.8,5.8,39.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0121,TRUE,FALSE,TRUE,"Καλογέρι, Κτήμα Παπαγιαννάκου","Kalogeri, Papagiannakou Estate","Ξηρό, Μαλαγουζιά, Alcohol 12,5%","Dry, Malagouzia, Alcohol 12,5% ",,,,,ΚΡΑΣΙ,WINE,21,22,23,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0122,TRUE,FALSE,TRUE,"Mικρή Κιβωτός, Κτήμα Λαντίδη","Little Arc, Lantides Estate","Ξηρό, Ασύρτικο-Μαλαγουζια, Alcohol 12,5%","Dry, Assyrtiko-Malagouzia, Alcohol 12,5%",,,,,ΚΡΑΣΙ,WINE,20,21,22,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0123,TRUE,FALSE,TRUE,"Chateau Νico Lazaridi, Κτήμα Λαζαρίδη","Chateau Nico Lazaridi, Lazaridi Estate","Ξηρός, Ήπιος, Λευκός, Sauvignon Blanc, Ugni Blanc,
+Μοσχάτο Αλεξάνδρειας, Alcohol 12.5%","Dry, mild, white, Sauvignon Blanc, Ugni Blanc,
+Moshato Alexandrias, Alcohol 12.5%",,,,,ΚΡΑΣΙ,WINE,17,18,19,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0124,TRUE,FALSE,TRUE,"Avantis, Κτήμα Aβαντίς","Avantis, Avantis Estate","Ξηρό, Viognier-Ασύρτικο, Alcohol 12.5%","Dry, Viognier-Assyrtiko",,,,,ΚΡΑΣΙ,WINE,16,17,18,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0125,TRUE,FALSE,TRUE,"Syrah Single Vineyard Χελώνες, Κτημα ΑΛΦΑ",Alpha Estate Syrah Single Vineyard ‘’Turtles’’,"Ξηρό, Syrah, Alcohol 14%","Dry, Syrah, Alcohol 14%",,,,,ΚΡΑΣΙ,WINE,23,24,25,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0126,TRUE,FALSE,TRUE,"Μπλε Τρακτέρ, Κτήμα Κυρ Γιάννη","Ble Tracter, Kir-Yianni Estate","Ξηρό, Cabernet Sauvignon, Merlot, Syrah, Alcohol 13,5%","Dry, Cabernet Sauvignon, Merlot, Syrah, Alcohol 13,5%",,,,,ΚΡΑΣΙ,WINE,18,19,20,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0127,TRUE,FALSE,TRUE,"Merlot, Porto Carras","Merlot, Porto Carras","Ξηρό, Merlot","Dry, Merlot",,,,,ΚΡΑΣΙ,WINE,17,18,19,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0128,TRUE,FALSE,TRUE,"Λαλίκος Variete, Ορεινοί Αμπελώνες Λαλίκου",Lalikos Mountain Vineyards Varieté,"Ημίγλυκο, Grenache rouge, Alcohol 11,5%","Semi sweet, Grenache rouge, Alcohol 11,5%",,,,,ΚΡΑΣΙ,WINE,17,18,19,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0129,TRUE,FALSE,TRUE,"Aκακίες, Κτημα Κυρ Γιάννη","Akakies, Kir-Yianni Estate","Ξηρό, Ξινόμαυρο, Alcohol 12,6%","Dry, Xinomavro, Alcohol 12,6%",,,,,ΚΡΑΣΙ,WINE,16,17,18,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0130,TRUE,FALSE,TRUE,"(Λευκό) Avantis, Κτήμα Aβαντίς","(White) Avantis, Avantis Estate","Ξηρό, Viognier-Ασύρτικο, Alcohol 12,5%","Dry, Viognier-Assyrtikov, Alcohol 12,5%",,,,,ΚΡΑΣΙ,WINE,4.5,5.5,6.5,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0131,TRUE,FALSE,TRUE,"(Κόκκινο) Merlot, Porto Carras","(Red) Merlot, Porto Carras","Ξηρό, Merlot","Dry, Merlot",,,,,ΚΡΑΣΙ,WINE,4.5,5.5,6.5,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0132,TRUE,FALSE,TRUE,"(Ροζέ) Aκακίες, Κτημα Κυρ Γιάννη","(Rose) Akakies, Kir-Yianni Estate","Ξηρό, Ξινόμαυρο, Alcohol 12,6%","Dry, Xinomavro, Alcohol 12,6%",,,,,ΚΡΑΣΙ,WINE,4.5,5.5,6.5,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0133,TRUE,FALSE,TRUE,Espresso μονός,Espresso single shot,,,,,,,BLACK COFFEES,BLACK COFFEES,"Coffee House:2.4,Blend Single Estate:2.7","Coffee House:2.4,Blend Single Estate:2.7","Coffee House:2.4,Blend Single Estate:2.7",,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0134,TRUE,FALSE,TRUE,Espresso διπλός,Espresso double shot,,,,,,,BLACK COFFEES,BLACK COFFEES,"Coffee House:3.2,Blend Single Estate:3.5","Coffee House:3.2,Blend Single Estate:3.5","Coffee House:3.2,Blend Single Estate:3.5",,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0135,TRUE,FALSE,TRUE,Americano,Americano,,,,,,,BLACK COFFEES,BLACK COFFEES,"Coffee House:3.2,Blend Single Estate:3.5","Coffee House:3.2,Blend Single Estate:3.5","Coffee House:3.2,Blend Single Estate:3.5",,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0136,TRUE,FALSE,TRUE,Espresso Freddo,Espresso Freddo,,,,,,,BLACK COFFEES,BLACK COFFEES,"Coffee House:3.5,Blend Single Estate:3.8","Coffee House:3.5,Blend Single Estate:3.8","Coffee House:3.5,Blend Single Estate:3.8",,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0137,TRUE,FALSE,TRUE,Filter V60/ORIGAMI,Filter V60/ORIGAMI,,,,,,,BLACK COFFEES,BLACK COFFEES,"Coffee House:-,Blend Single Estate:4","Coffee House:-,Blend Single Estate:4","Coffee House:-,Blend Single Estate:4",,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0138,TRUE,FALSE,TRUE,Cold Brew,Cold Brew,,,,,,,BLACK COFFEES,BLACK COFFEES,"Coffee House:-,Blend Single Estate:4","Coffee House:-,Blend Single Estate:4","Coffee House:-,Blend Single Estate:4",,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0139,TRUE,FALSE,TRUE,Cappuccino μονός,Cappuccino single shot,,,,,,,WHITE COFFEES,WHITE COFFEES,"Coffee House:3.5,Blend Single Estate:3.8","Coffee House:3.5,Blend Single Estate:3.8","Coffee House:3.5,Blend Single Estate:3.8",,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0140,TRUE,FALSE,TRUE,Cappuccino διπλός,Cappuccino double shot,,,,,,,WHITE COFFEES,WHITE COFFEES,"Coffee House:3.9,Blend Single Estate:4.1","Coffee House:3.9,Blend Single Estate:4.1","Coffee House:3.9,Blend Single Estate:4.1",,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0141,TRUE,FALSE,TRUE,Latte,Latte,,,,,,,WHITE COFFEES,WHITE COFFEES,"Coffee House:3.9,Blend Single Estate:4.1","Coffee House:3.9,Blend Single Estate:4.1","Coffee House:3.9,Blend Single Estate:4.1",,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0142,TRUE,FALSE,TRUE,Cappuccino Freddo,Cappuccino Freddo,,,,,,,WHITE COFFEES,WHITE COFFEES,"Coffee House:3.9,Blend Single Estate:4.1","Coffee House:3.9,Blend Single Estate:4.1","Coffee House:3.9,Blend Single Estate:4.1",,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0143,TRUE,FALSE,TRUE,Flat White,Flat White,,,,,,,WHITE COFFEES,WHITE COFFEES,"Coffee House:3.9,Blend Single Estate:4.1","Coffee House:3.9,Blend Single Estate:4.1","Coffee House:3.9,Blend Single Estate:4.1",,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+p0144,TRUE,FALSE,TRUE,Macchiato,Macchiato,,,,,,,WHITE COFFEES,WHITE COFFEES,"Coffee House:2.6,Blend Single Estate:2.9","Coffee House:2.6,Blend Single Estate:2.9","Coffee House:2.6,Blend Single Estate:2.9",,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
